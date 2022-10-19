@@ -23,7 +23,7 @@ def logIn(request):
                 form = AuthenticationForm(data = request.POST)
                 return render(request, 'login.html', {'form': form, 'error': True})
         return render(request, 'login.html', {'form':form})
-@login_required
+@login_required(login_url="logIn")
 def home(request):
     return render(request, 'home.html')
 
