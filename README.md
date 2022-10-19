@@ -20,7 +20,10 @@
  ![login-page](https://user-images.githubusercontent.com/59791826/196686579-b37b060d-c88a-4b87-bc66-7f7f649402fd.png)
  
  #This is the Login page 
- Enter credentials (Amar001 , singh001)
+ Enter credentials (Test_user , Random123@#),for now on only one user is registered.
+ 
+ ![user](https://user-images.githubusercontent.com/59791826/196694735-234eb6fd-dadd-4546-a2e2-2cad6ba9a22b.png)
+
  #It will take you to main page
  
  
