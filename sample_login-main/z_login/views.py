@@ -4,6 +4,7 @@ from django.contrib.auth.forms import AuthenticationForm
 from django.contrib.auth import login, logout
 from .models import Messages
 from django.contrib import messages
+from django.contrib.auth.decorators import login_required
 # Create your views here.
 
 def logIn(request):
@@ -22,7 +23,7 @@ def logIn(request):
                 form = AuthenticationForm(data = request.POST)
                 return render(request, 'login.html', {'form': form, 'error': True})
         return render(request, 'login.html', {'form':form})
-
+@login_required
 def home(request):
     return render(request, 'home.html')
 
