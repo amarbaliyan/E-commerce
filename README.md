@@ -34,7 +34,7 @@ it will take you to contact us page
 
 ![contact-us](https://user-images.githubusercontent.com/59791826/196687192-a7ef2e19-d835-46a5-89d7-b119d083efb1.png)
 
-you can write a message or feedback and it will got to us directly
+you can write a message or feedback and it gonna get to us directly
 
 
  ![messages](https://user-images.githubusercontent.com/59791826/196687944-111b3b44-4e10-4acb-8bd8-a29c04f79906.png)
