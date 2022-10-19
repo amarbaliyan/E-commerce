@@ -18,7 +18,24 @@
   
     
  ![login-page](https://user-images.githubusercontent.com/59791826/196686579-b37b060d-c88a-4b87-bc66-7f7f649402fd.png)
-
-
-
  
+ #This is the Login page 
+  A.Enter credentials (Amar001 , singh001)
+ #It will take you to main page
+ 
+ 
+![home-page](https://user-images.githubusercontent.com/59791826/196686989-f627427f-d298-4f11-925b-fe16d484c1f0.png)
+
+#You can browse the watches and select them
+
+Or you can Contact us by clicking on the button "CONTACT-US"
+
+it will take you to contact us page
+
+![contact-us](https://user-images.githubusercontent.com/59791826/196687192-a7ef2e19-d835-46a5-89d7-b119d083efb1.png)
+
+you can write a message or feedback and it will got to us directly
+
+
+ ![messages](https://user-images.githubusercontent.com/59791826/196687944-111b3b44-4e10-4acb-8bd8-a29c04f79906.png)
+
