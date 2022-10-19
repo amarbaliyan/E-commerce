@@ -4,14 +4,14 @@
  
  # Making System Compatible.
   1. install all files in requirments.txt
-    a. Open window Command Centre
-    b. TYPE:-"pip install -r requirnments.txt" 
-    c. Hit Enter , it will download all files required
+  2. Open window Command Centre
+  3. TYPE:-"pip install -r requirnments.txt" 
+  4. Hit Enter , it will download all files required
   
-  2. After downloading the code
-    a. Go into main folder "sample_login-main".
-    b. Open new CMD and type " python manage.py runserver "
-    c. After that press and hold control and click on link given by CMD
+  5. After downloading the code
+  6. Go into main folder "sample_login-main".
+  7. Open new CMD and type " python manage.py runserver "
+  8. After that press and hold control and click on link given by CMD
   
   # it will direct you to website
   
@@ -20,7 +20,7 @@
  ![login-page](https://user-images.githubusercontent.com/59791826/196686579-b37b060d-c88a-4b87-bc66-7f7f649402fd.png)
  
  #This is the Login page 
-  A.Enter credentials (Amar001 , singh001)
+ Enter credentials (Amar001 , singh001)
  #It will take you to main page
  
  
